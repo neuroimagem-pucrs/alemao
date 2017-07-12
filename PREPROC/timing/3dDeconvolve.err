@@ -1,0 +1,4 @@
+*+ WARNING: no -stim_label given for stim #1 ==> label = 'Stim#1'
+*+ WARNING: no -stim_label given for stim #2 ==> label = 'Stim#2'
+*+ WARNING: no -stim_label given for stim #3 ==> label = 'Stim#3'
+*+ WARNING: '-stim_times 3' (LOCAL) run#1 has 1 times outside range 0 .. 474 [PSFB syndrome]
